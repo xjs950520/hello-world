@@ -6,5 +6,6 @@ package com.aaa.demo;
 public class HelloWorld3 {
     public static void main(String[] args){
         System.out.print("Failure is the mother of success!");
+        System.out.print("middle alone");
     }
 }
